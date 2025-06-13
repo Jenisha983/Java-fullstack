@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Flowers Name</h2>
+<ul>
+     <li>Jasmine</li>
+     <li>Rose</li>
+     <li>Lily</li>
+     <li>Lotus</li>
+     <li>Sunflower</li>
+     <li>Daffodils</li>
+     <li>Orchid</li>
+     <li>Tulip</li>
+     <li>Marigold</li>
+      <li>Hibiscus</li>
+</ul>  
+<h2>Kanyakumari Tourist places</h2>
+<ol>
+      <li>Thiruvallur Statue</li>
+      <li>Sunset Point</li>
+      <li>Kanyakumari Beach</li>
+       <li>Vattakottai Fort</li>
+       <li>Thirparappu Falls</li>
+       <li>Lemur Beach</li>
+       <li>Sanguthurai Beach</li>
+       <li>Sothavilai Beach</li>
+       <li>Padmanabhapuram Pala</li>
+       <li>Baywatch Water Theme Park</li>
+</ol> 
+<p>India begins where Kanyakumari ends</p>
+</body>
+</html>
